@@ -1,0 +1,8 @@
+pipecat-ai[webrtc,websocket,groq,sarvam]
+fastapi
+uvicorn
+python-dotenv
+loguru
+tenacity
+gunicorn
+pydantic-settings
