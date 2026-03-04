@@ -3,6 +3,31 @@ fastapi
 uvicorn
 python-dotenv
 loguru
-tenacity
+tenacity 
 gunicorn
-pydantic-settings
+pydantic
+pydantic-settings 
+sqlalchemy 
+asyncpg
+pydantic[email]
+
+
+# pip install "passlib[bcrypt]" python-jose[cryptography]
+# pip install fastapi uvicorn sqlalchemy asyncpg psycopg2-binary
+# pip install pgvector
+# pip install python-dotenv
+
+# Name: SQLAlchemy
+# Version: 2.0.38
+# Summary: Database Abstraction Library
+# Home-page: https://www.sqlalchemy.org
+# Author: Mike Bayer
+# Author-email: mike_mp@zzzcomputing.com
+# License: MIT
+# Location: D:\PYTHON-RAG\Hospital-asssistent\hospital-ai-agent-backend\venv\Lib\site-packages
+# Requires: greenlet, typing-extensions
+# Required-by: 
+
+# ! npx neonctl@latest --force-auth init --agent claude
+
+# pip install "python-jose[cryptography]" "passlib[bcrypt]"
